@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Fernanda Rodrigues",
+        "cpf": "05634589611",
+        "email": "nandah@gmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "87030070",
+            "street": "Rua Saldanha Marinho",
+            "number": "784",
+            "details": "kitnet 06",
+            "district": "Zona 07",
+            "city_state": "Maringá/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Netuno",
+        "cpf": "0563458961a",
+        "email": "netuno@gmail.com",
+        "whatsapp": "22666656986",
+        "address": {
+            "postalcode": "87030070",
+            "street": "Rua Saldanha Marinho",
+            "number": "784",
+            "details": "kitnet 06",
+            "district": "Zona 07",
+            "city_state": "Maringá/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Fernanda",
+        "cpf": "05634589612",
+        "email": "nandah.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "87030070",
+            "street": "Rua Saldanha Marinho",
+            "number": "784",
+            "details": "kitnet 06",
+            "district": "Zona 07",
+            "city_state": "Maringá/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
